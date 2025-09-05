@@ -1,7 +1,13 @@
 <div align="center">
 
-<!-- Animated Banner with Multiple Effects -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=👋%20Jawad%20Ali%20Yousafzai&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=🤖%20AI%20%26%20ML%20Engineer%20%7C%20Building%20the%20Future%20🚀&descAlignY=75&descAlign=50" />
+<div align="center">
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hi there! I'm Jawad Ali Yousafzai
+
+### 🤖 AI & ML Engineer | 📊 Data Scientist | 🚀 Creator of Intelligent AI Agents
+### 🇵🇰 Building the Future from Pakistan
+
+</div>
 
 <!-- Multi-line Animated Typing with Colors -->
 <p align="center">
@@ -16,7 +22,7 @@
 </p>
 
 <!-- Animated Divider -->
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fwave-hand-gifs&psig=AOvVaw2lcSo0qlegdVLYRnl1BZRs&ust=1757191618318000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCh7IW_wo8DFQAAAAAdAAAAABAe" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
