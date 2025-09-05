@@ -151,7 +151,7 @@ class JawadAliYousafzai:
 </p>
 
 ### 📄 **Resume**
-<a href="https://drive.google.com/file/d/1qFMIyckWYbQ_geGilu3IB6BXP61nlEf5/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1uBo6PZ8m7eCUH_aNudNNKSP-xLttcLmG/view?usp=drive_link">
 <img src="https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
 </a>
 
