@@ -16,7 +16,7 @@
 </p>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fwave-hand-gifs&psig=AOvVaw2lcSo0qlegdVLYRnl1BZRs&ust=1757191618318000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCh7IW_wo8DFQAAAAAdAAAAABAe" width="100%">
 
 </div>
 
