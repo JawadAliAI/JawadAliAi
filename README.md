@@ -5,7 +5,7 @@
 
 <!-- Multi-line Animated Typing with Colors -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=200&lines=🤖+AI+%26+ML+Engineer+from+Pakistan+🇵🇰;🚀+Creating+Intelligent+AI+Agents;🏥+Revolutionizing+Healthcare+with+AI;👁️+Computer+Vision+%26+Deep+Learning+Expert;📊+Turning+Data+into+Insights;☕+Fueled+by+Coffee+%26+Innovation!" alt="Animated Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🤖+AI+%26+ML+Engineer;🇵🇰+Building+from+Pakistan;🚀+Creating+AI+Agents;🏥+Healthcare+AI+Innovator;👁️+Computer+Vision+Expert;📊+Data+Science+Specialist;☕+Coffee+%2B+Code+%3D+Magic" alt="Animated Typing" />
 </p>
 
 <!-- Animated Profile Counter -->
