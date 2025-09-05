@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner with Multiple Effects -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Jawad%20Ali%20Yousafzai&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=AI%20%26%20ML%20Engineer%20%7C%20Building%20the%20Future&descAlignY=75&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=👋%20Jawad%20Ali%20Yousafzai&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=🤖%20AI%20%26%20ML%20Engineer%20%7C%20Building%20the%20Future%20🚀&descAlignY=75&descAlign=50" />
 
 <!-- Multi-line Animated Typing with Colors -->
 <p align="center">
