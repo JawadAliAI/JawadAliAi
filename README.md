@@ -21,7 +21,7 @@
 
 <!-- GitHub Actions Badge -->
 <br>
-[![Generate Letters](https://github.com/JawadAliAI/Mail-Marge-Using-Python/actions/workflows/letters.yml/badge.svg?branch=main)](https://github.com/JawadAliAI/Mail-Marge-Using-Python/actions/workflows/letters.yml)
+[![Generate Letters](https://github.com/JawadAliAI/Mail-Marge-Using-Python/actions/workflows/letters.yml/badge.svg)](https://github.com/JawadAliAI/Mail-Marge-Using-Python/actions/workflows/letters.yml)
 
 </div>
 
