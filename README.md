@@ -19,11 +19,9 @@
 <img src="https://img.shields.io/github/followers/jawadaliai?label=Followers&style=for-the-badge&color=blue" />
 <img src="https://img.shields.io/badge/Projects-50%2B-brightgreen?style=for-the-badge" />
 
-<!-- GitHub Actions & Workflow Status -->
+<!-- GitHub Actions Badge -->
 <br>
 [![Generate Letters](https://github.com/JawadAliAI/Mail-Marge-Using-Python/actions/workflows/letters.yml/badge.svg?branch=main)](https://github.com/JawadAliAI/Mail-Marge-Using-Python/actions/workflows/letters.yml)
-<img src="https://img.shields.io/badge/CI/CD-Active-success?style=flat-square&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/Automation-Powered-orange?style=flat-square&logo=github-actions&logoColor=white" />
 
 </div>
 
